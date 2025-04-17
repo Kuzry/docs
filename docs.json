@@ -16,7 +16,8 @@
           {
             "group": "Generator Dokumentów Pro",
             "pages": [
-              "generator-dokumentow-pro/wprowadzenie"
+              "generator-dokumentow-pro/wprowadzenie",
+              "generator-dokumentow-pro/instalacja"
             ]
           },
           {
