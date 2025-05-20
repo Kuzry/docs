@@ -59,22 +59,22 @@
         {
           "anchor": "LinkedIn",
           "href": "https://www.linkedin.com/in/krzysztof-kuzara",
-          "icon": "slack"
+          "icon": "linkedin"
         },
         {
           "anchor": "YouTube",
           "href": "https://www.youtube.com/@krzysztof-kuzara",
-          "icon": "newspaper"
+          "icon": "youtube"
         },
         {
           "anchor": "Facebook",
           "href": "https://www.facebook.com/profile.php?id=61565703427058",
-          "icon": "newspaper"
+          "icon": "facebook"
         },
         {
           "anchor": "E-mail",
           "href": "mailto:krzysztof@automatly.pl",
-          "icon": "newspaper"
+          "icon": "envelope"
         }
       ]
     }
