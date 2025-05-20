@@ -12,7 +12,6 @@
     "tabs": [
       {
         "tab": "Dokumentacja",
-        "hidden": true,
         "groups": [
           {
             "group": "Start",
@@ -22,6 +21,7 @@
           },
           {
             "group": "Generator Dokumentów Pro",
+            "hidden": true,
             "pages": [
               "generator-dokumentow-pro/wprowadzenie",
               "generator-dokumentow-pro/instalacja"
@@ -29,27 +29,9 @@
           },
           {
             "group": "Publikacje Pro",
+            "hidden": true,
             "pages": [
               "publikacje-pro/wprowadzenie"
-            ]
-          },
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
             ]
           }
         ]
