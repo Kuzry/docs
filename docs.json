@@ -15,6 +15,11 @@
         "hidden": true,
         "groups": [
           {
+            "pages": [
+              "home"
+            ]
+          },
+          {
             "group": "Generator Dokumentów Pro",
             "pages": [
               "generator-dokumentow-pro/wprowadzenie",
