@@ -16,7 +16,6 @@
         "groups": [
           {
             "group": "Start",
-            "hidden": true,
             "pages": [
               "wprowadzenie"
             ]
