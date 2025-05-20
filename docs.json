@@ -20,7 +20,7 @@
             ]
           },
           {
-            "group": "Integracja Shoper ↔ ActiveCampaign",
+            "group": "Shoper ↔ ActiveCampaign",
             "pages": [
               "shoper-activecampaign/instalacja"
             ]
