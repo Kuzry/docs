@@ -20,6 +20,9 @@
             ]
           },
           {
+            "group": "Integracja Shoper ↔ ActiveCampaign"
+          },
+          {
             "group": "Generator Dokumentów Pro",
             "hidden": true,
             "pages": [
