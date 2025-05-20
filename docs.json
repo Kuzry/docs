@@ -21,7 +21,9 @@
           },
           {
             "group": "Integracja Shoper ↔ ActiveCampaign",
-            "pages": []
+            "pages": [
+              "shoper-activecampaign/instalacja"
+            ]
           },
           {
             "group": "Generator Dokumentów Pro",
