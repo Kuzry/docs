@@ -80,8 +80,8 @@
     }
   },
   "logo": {
-    "light": "/logo/automatly-logo-light.png",
-    "dark": "/logo/automatly-logo-dark.png"
+    "light": "/logo/automatly-logo-dark.png",
+    "dark": "/logo/automatly-logo-light.png"
   },
   "navbar": {},
   "footer": {
