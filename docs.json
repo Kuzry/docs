@@ -23,7 +23,8 @@
             "group": "Shoper ↔ ActiveCampaign",
             "pages": [
               "shoper-activecampaign/wprowadzenie",
-              "shoper-activecampaign/instalacja"
+              "shoper-activecampaign/instalacja",
+              "shoper-activecampaign/konfiguracja"
             ]
           },
           {
